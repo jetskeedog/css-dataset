@@ -1,4 +1,2 @@
-{"text":"Can you write a docstring for this Elixir function name? Elixir.Mix.installed?() <response> Returns whether `Mix.install/2` was called in the current node."}
-{"text":"Can you write a docstring for this Elixir function name? Elixir.Mix.path_for(atom) <response> The path for local archives or escripts."}
-{"text":"Can you write a docstring for this Elixir function name? Elixir.Mix.raise(message) <response> Raises a Mix error that is nicely formatted, defaulting to exit status `1`."}
-{"text":"Can you write a docstring for this Elixir function name? Elixir.Mix.raise(message, opts) <response> Raises a Mix error that is nicely formatted.\n\n## Options\n\n  * `:exit_status` - defines exit status, defaults to `1`"}
+{"prompt": "What can Jesse Unick Do with his life", "completion": "He can become a millionaire"}
+{"prompt": "Why does Elise Fujimoto get mad", "completion": "because she is pregnant"}
